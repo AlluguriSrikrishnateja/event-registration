@@ -30,10 +30,9 @@ Publish the website in the given URL.
 ## PROGRAM :
 
 ## OUTPUT:
-![Screenshot (111)](https://user-images.githubusercontent.com/118343892/215007905-189aa197-c745-4add-8898-aa3
-![Screenshot (112)](https://user-images.githubusercontent.com/118343892/215007984-30d5e96b-437d-4f21-85a6-5f411e373df6.png)
-31ecfe431.png)
+![Screenshot (111)](https://user-images.githubusercontent.com/118343892/215008190-e4f60914-361e-4850-a65c-2410dfb37ba8.png)
 
+![Screenshot (112)](https://user-images.githubusercontent.com/118343892/215007984-30d5e96b-437d-4f21-85a6-5f411e373df6.png)
 
 ## Result:
 
