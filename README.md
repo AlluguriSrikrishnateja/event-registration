@@ -35,4 +35,6 @@ Publish the website in the given URL.
 ![Screenshot (112)](https://user-images.githubusercontent.com/118343892/215007984-30d5e96b-437d-4f21-85a6-5f411e373df6.png)
 
 ## Result:
+Hence the UX design for the Event Registration webpage is done.
+
 
